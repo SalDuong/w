@@ -4,8 +4,8 @@
 // @match        *://alohomora-bucket-fra1-prod-frontend-static.fra1.cdn.digitaloceanspaces.com/*
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
-// @downloadURL  https://github.com/SalDuong/w/blob/main/autoclick.js
-// @updateURL    https://github.com/SalDuong/w/blob/main/autoclick.js
+// @downloadURL  https://github.com/SalDuong/w/raw/main/autoclick.js
+// @updateURL    https://github.com/SalDuong/w/raw/main/autoclick.js
 // @homepage     https://github.com/SalDuong/w
 // @grant        none
 // ==/UserScript==
