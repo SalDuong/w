@@ -5,8 +5,8 @@
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://github.com/SalDuong/w/blob/main/user.js
-// @updateURL    https://github.com/SalDuong/w/blob/main/user.js
+// @downloadURL  https://github.com/SalDuong/w/raw/main/user.js
+// @updateURL    https://github.com/SalDuong/w/raw/main/user.js
 // @homepage     https://github.com/SalDuong/w/
 // ==/UserScript==
 
