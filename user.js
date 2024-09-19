@@ -5,9 +5,9 @@
 // @icon         https://img.cryptorank.io/coins/w_coin1718038816897.png
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
-// @updateURL    https://github.com/mudachyo/W-Coin/raw/main/w-coin-web.user.js
-// @homepage     https://github.com/mudachyo/W-Coin/
+// @downloadURL  https://github.com/SalDuong/w/blob/main/user.js
+// @updateURL    https://github.com/SalDuong/w/blob/main/user.js
+// @homepage     https://github.com/SalDuong/w/
 // ==/UserScript==
 
 (function() {
